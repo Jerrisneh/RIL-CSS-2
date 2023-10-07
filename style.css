@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #102A2D;
+}
+
+.first{
+ background: url("Rectangle\ 8.png") no-repeat ;
+ padding: 40px;
+ margin: 100px;
+ width: 100%;
+}
+.second{
+    background: #FEFEFE;
+    width: 600px;
+    border-radius: 26px;
+    padding: 40px 70px 30px 30px;
+}
+h1{
+    font-size: 24px;
+    font-weight: 600;
+    font-family: Poppins;
+    color:#00B152;
+    padding: 30px 40px 30px 10px;
+
+}
+h2{
+    font-size: 36px;
+    font-weight: 700;
+    font-family: Poppins;
+    color:#043931;
+    padding: 10px;
+}
+.text{
+    font-size: 24px;
+    font-weight: 400;
+    font-family: Poppins;
+    color:#000000;
+    padding: 10px;
+}
+.price{
+    font-size: 36px;
+    font-weight: 600;
+    font-family: Poppins;
+    color:#264852;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+button{
+    border-radius: 40px;
+    background:#102A2D;
+    padding: 20px;
+    margin-bottom: 50px;
+    color:#FFFFFF;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Poppins;
+}
